@@ -14,7 +14,7 @@
           <version>3.0.0-M5</version>
           <configuration>
 <includes> 
-<exclude> **/* Restjunit.java</exclude>
+<exclude> **/* Trello.java</exclude>
 </includes>
             <!-- put your configurations here -->
           </configuration> 
